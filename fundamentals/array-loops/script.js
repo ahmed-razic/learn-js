@@ -42,3 +42,4 @@ for (let x in user10) {
 
 let val = user.map((u) => u.id);
 console.log(val);
+console.log(user);
